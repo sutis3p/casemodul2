@@ -53,10 +53,7 @@ public class Perfume extends Product {
         return super.getPrice();
     }
 
-    @Override
-    public void setPrice(double price) {
-        super.setPrice(price);
-    }
+
 
     @Override
     public String toString() {
